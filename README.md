@@ -3,6 +3,8 @@
 **[Kenney.nl's](https://kenney.nl) prototype textures applied to a cube for Godot's asset library.
 Block out levels, prototype, do level design, test proportions, test imports and gameplay.**
 
+*Inspired by [Kenney Protoype Tools](https://godotengine.org/asset-library/asset/1086) for Godot 3.3 by [MrMinimal](https://godotengine.org/asset-library/asset?user=MrMinimal)*
+
 This package includes 13 development/prototype textures, materials and cube scenes each in 6 different colors. All textures are 1024×1024.
 
 See [this page](https://kenney.nl/assets/prototype-textures) for the full package that also contains vectors.
@@ -26,16 +28,16 @@ See [this page](https://kenney.nl/assets/prototype-textures) for the full packag
 ### Manual installation
 
 Manual installation lets you use pre-release versions of this add-on by
-following its `master` branch.
+following its `main` branch.
 
 - Clone this Git repository:
 
 ```bash
-git clone https://github.com/geroveni/kenney_prototype_tools.git
+git clone https://github.com/GeroVeni/kenney_prototype_tools.git
 ```
 
 Alternatively, you can
-[download a ZIP archive](https://github.com/geroveni/kenney_prototype_tools/archive/main.zip)
+[download a ZIP archive](https://github.com/GeroVeni/kenney_prototype_tools/archive/main.zip)
 if you do not have Git installed.
 
 - Move the `addons/` folder to your project folder.
