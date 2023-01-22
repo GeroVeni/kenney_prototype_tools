@@ -21,7 +21,7 @@ See [this page](https://kenney.nl/assets/prototype-textures) for the full packag
 - Navigate to the **AssetLib** tab at the top of the editor and search for
   "kenney prototype tools".
 - Install the
-  [*Kenney Prototype Tools*](https://godotengine.org/asset-library/asset)
+  [*Kenney Prototype Tools*](https://godotengine.org/asset-library/asset/1630)
   plugin.
 - Textures are now availables in `addons/kenney_prototype_tools/`.
 
